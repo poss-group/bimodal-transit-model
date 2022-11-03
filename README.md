@@ -9,3 +9,8 @@ d_cut_check.ipynb is used to generate Fig.2
 
 Ensure the path to data files.
 Ensure to importy func.py
+
+# Releases
+
+[![DOI](https://zenodo.org/badge/561196903.svg)](https://zenodo.org/badge/latestdoi/561196903)
+
